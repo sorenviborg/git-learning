@@ -1,1 +1,3 @@
-Mars is a red planet, with water. But frozen.
+Mars is a red planet, with water. 
+
+Venus are also a planet.
