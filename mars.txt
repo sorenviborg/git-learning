@@ -7,4 +7,6 @@ Venus is also a planet.
 
 TODO: Add about aliens on Mars.
 
+Important note: Do NOT DELETE
+
 Done. Really.
